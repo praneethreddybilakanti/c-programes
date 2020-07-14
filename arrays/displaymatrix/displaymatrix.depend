@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1560066345 source:f:\c_by_praeeth -examples\loops\arrays\displaymatrix\main.c
+	<stdio.h>
+	<stdlib.h>
+

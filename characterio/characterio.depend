@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1559920193 source:f:\c_by_praeeth -examples\characterio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
